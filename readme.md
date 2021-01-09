@@ -1,4 +1,3 @@
-# READ_ME 
 ## Emotion detection on text using BERT language model
 #### Name: Aishwarya Sahani, Ansul Goenka, Harsh Yadav
 #### UIN: 652324475, 671771128, 673441858
